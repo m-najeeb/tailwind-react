@@ -5,7 +5,7 @@ function App() {
     <div className="App mt-3 bg-gray-50">
       <div class="mx-auto p-6 pt-0 sm:max-w-5xl">
         <h1 className="mb-2 text-center text-4xl font-medium">Tailwind CSS</h1>
-        <h2 class="border-b-2 border-blue-200 pb-2 text-xl font-bold capitalize text-blue-700">
+        <h2 class="border-b-2 border-[#a39b2c] pb-2 text-xl font-bold capitalize text-blue-700">
           Advantages
         </h2>
         <div class="mt-2 sm:flex sm:gap-2">
@@ -30,7 +30,7 @@ function App() {
             </p>
           </div>
 
-          <div class="border-red-700 mt-2 flex flex-col items-center rounded-md border-b-4 bg-white p-6 text-center sm:mt-0">
+          <div class="border-[#879384] mt-2 flex flex-col items-center rounded-md border-b-4 bg-white p-6 text-center sm:mt-0">
             <div class="rounded-full bg-gray-200 p-3">
               <svg
                 class="h-12 w-12 fill-current"
@@ -47,7 +47,7 @@ function App() {
             </p>
           </div>
 
-          <div class="mt-2 flex flex-col items-center rounded-md border-b-4 border-pink-400 bg-white p-6 text-center sm:mt-0">
+          <div class="mt-2 flex flex-col items-center rounded-md border-b-4 border-[#62ff4a] bg-white p-6 text-center sm:mt-0">
             <div class="rounded-full bg-gray-200 p-3">
               <svg
                 class="h-12 w-12 fill-current"
